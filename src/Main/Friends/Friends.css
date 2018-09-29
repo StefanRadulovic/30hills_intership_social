@@ -1,0 +1,17 @@
+.friends-nav {
+    line-height: 40px;
+}
+.friends-nav p{
+    margin-bottom: 0;
+    text-align: center;
+    font-size: 150%;
+    color: #841983;
+    font-weight: bold;
+}
+.friends-nav p:hover{
+    cursor: pointer;
+}
+#selected{
+    background-color: #841983;
+    color: white;
+}

@@ -1,0 +1,7 @@
+.user {
+    display: inline-block;
+    margin-top: 15px;
+}
+.name:hover {
+    cursor: pointer;
+}

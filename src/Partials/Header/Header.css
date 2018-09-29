@@ -1,0 +1,10 @@
+.header {
+    height: 60px;
+    background-color: #4cdef5
+}
+.header-text{
+    text-align: center;
+    line-height: 60px;
+    color: #841983;
+    font-weight: bold;
+}
